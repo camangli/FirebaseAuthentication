@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184617475602",
+    "project_id": "tugasmobileprograming-219f9",
+    "storage_bucket": "tugasmobileprograming-219f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184617475602:android:1ff079c3e9c970d65142cb",
+        "android_client_info": {
+          "package_name": "firebase.firebaseaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184617475602-1k01k2phu61v0sphq9udm2g73bps234d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5PnFSj45clv72B25hUQvEJSeqCxH5EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184617475602-1k01k2phu61v0sphq9udm2g73bps234d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
